@@ -1,4 +1,4 @@
----
+wallet Rectify Apps
 description: Access a user's accounts and handle changed accounts.
 ---
 
